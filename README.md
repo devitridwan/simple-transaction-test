@@ -9,3 +9,6 @@ run from docker
   - masuk directory running
   - edit rebuild.sh jika diperlukan
   - jalankan shell "./rebuild.sh"
+
+Dokumentasi Postman
+  - https://documenter.getpostman.com/view/8200038/TzzHmYEk

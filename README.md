@@ -12,3 +12,8 @@ run from docker
 
 Dokumentasi Postman
   - https://documenter.getpostman.com/view/8200038/TzzHmYEk
+
+Catatan
+  - untuk melakukan CRUD produk menggunakan username = admin password = password
+  - registrasi hanya untuk user non admin
+  - user hanya bisa get list produk, order produk dan payment

@@ -1,4 +1,4 @@
-# simple-transaction-test
+# simple-transaction-test (Tested on linux)
 
 import db_test to postgresql
 run from go:
